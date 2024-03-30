@@ -1,5 +1,5 @@
 streamlit==1.32.2
-torch==1.10.0
+torch==1.13.0
 numpy==1.21.5
 gradio==2.0.10
 opencv-python==4.5.4.58
