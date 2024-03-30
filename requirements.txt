@@ -2,5 +2,5 @@ streamlit==1.32.2
 torch==1.13.0
 numpy==1.22.0
 gradio==2.0.10
-opencv-python==4.5.4.58
+opencv-python
 Pillow==8.4.0
